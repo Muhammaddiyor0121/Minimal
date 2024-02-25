@@ -1,0 +1,480 @@
+@media screen and (max-width: 1300px) {
+    .block .Making {
+        padding: 60px 300px 20px 300px;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .wrapper .header .headersilka {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .block .Making {
+        padding: 60px 250px 15px 250px;
+        font-size: 35px;
+    }
+
+    .wrapper .block .Let {
+        font-size: 13px;
+    }
+
+    .block .ul {
+        margin-bottom: 60px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .wrapper .header .headersilka {
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+
+    .wrapper .block .Making {
+        font-size: 30px;
+        padding: 80px 350px 15px 350px;
+    }
+}
+
+@media screen and (max-width:1050px) {
+    .wrapper .block1 .blocklar {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .wrapper .block1 .img5 {
+        margin-top: 20px;
+    }
+
+    .wrapper .block2 .rasmlar {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .wrapper .block5 .loremlar {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media screen and (max-width: 1004px) {
+    .wrapper .block1 .How {
+        margin-bottom: 50px;
+    }
+
+    .wrapper .block1 .img3 {
+        margin-top: 50px;
+    }
+
+    .wrapper .block1 .img4 {
+        margin-top: 50px;
+    }
+
+    .wrapper .block1 .img5 {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .wrapper .block .ul {
+        font-size: 36px;
+    }
+
+    .wrapper .block .Minimalist {
+        font-size: 15px;
+    }
+
+    .wrapper .block1 .How {
+        font-size: 20px;
+    }
+
+    .wrapper .block2 .recent {
+        font-size: 20px;
+    }
+
+    .wrapper .block4 .loremleftright .leftlorem .Ilove {
+        font-size: 23px;
+    }
+
+    .wrapper .block4 .rightlorem .Elexis {
+        font-size: 23px;
+    }
+
+    .wrapper .block5 .LETs {
+        font-size: 20px;
+    }
+
+    .wrapper .block .get {
+        font-size: 13px;
+        padding: 10px 30px 17px 32px;
+    }
+
+    .wrapper .block3 .our {
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .wrapper .block3 .rasmlar1 {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .wrapper .block3 .rasmlar1 .imglar1 .Founder {
+        margin-bottom: 20px;
+    }
+
+    .wrapper .block3 .rasmlar1 .imglar2 .Marketing {
+        margin-bottom: 20px;
+    }
+
+    .wrapper .block3 .rasmlar1 .imglar3 .Designer {
+        margin-bottom: 20px;
+    }
+
+    .wrapper .block3 .rasmlar1 .imglar4 .Developer {
+        margin-bottom: 20px;
+    }
+
+    .wrapper .block3 .rasmlar1 .rasmlar3 {
+        margin-top: 20px;
+    }
+
+    .wrapper .block3 .rasmlar1 .rasmlar2 .imglar1 {
+        margin-right: 20px;
+    }
+
+    .wrapper .block3 .rasmlar1 .imglar3 {
+        margin-right: 20px;
+    }
+
+}
+
+@media screen and (max-width: 943px) {
+    .wrapper .block .Making {
+        padding: 40px 216px 20px 216px;
+    }
+
+    .wrapper .block .ul {
+        padding-bottom: 65px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .wrapper .block .Making {
+        padding: 30px 180px 15px 180px;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .wrapper .block4 .loremleftright {
+        margin: 0 auto;
+    }
+
+    .block5 .LETs {
+        margin-bottom: 60px;
+    }
+
+    .wrapper .block5 .loremlar {
+        text-align: center;
+    }
+
+    .wrapper .block .ul {
+        font-size: 30px;
+    }
+
+    .wrapper .block4 .loremleftright .leftlorem {
+        margin-right: 10px;
+    }
+
+    .wrapper .block .Making {
+        padding: 15px 220px 10px 220px;
+    }
+
+    .wrapper .block .ul {
+        padding-bottom: 33px;
+    }
+
+    .wrapper .footer .form {
+        max-width: 400px;
+    }
+
+    .wrapper .footer .seend {
+        margin-bottom: -35px;
+    }
+
+    .wrapper .footer {
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .silka2 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .wrapper .block .Minimalist {
+        padding: 30px 200px 32px 200px;
+    }
+
+    .wrapper .block .Making {
+        padding: 15px 180px 10px 180px;
+    }
+
+    .block2 .rasm1 .rasmblock {
+        max-width: 250px;
+    }
+
+    .block2 .rasm1 .rasmblock1 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm1 .rasmblock2 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm2 .rasmblock3 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm2 .rasmblock4 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm2 .rasmblock5 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm3 .rasmblock6 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm3 .rasmblock7 {
+        max-width: 250px;
+    }
+
+    .block2 .rasm3 .rasmblock8 {
+        max-width: 250px;
+    }
+
+    .img8 {
+        max-width: 250px;
+    }
+
+    .img9 {
+        max-width: 250px;
+    }
+
+    .img10 {
+        max-width: 250px;
+    }
+
+    .img11 {
+        max-width: 250px;
+    }
+
+    .img12 {
+        max-width: 250px;
+    }
+
+    .img13 {
+        max-width: 250px;
+    }
+
+    .img14 {
+        max-width: 250px;
+    }
+
+    .img15 {
+        max-width: 250px;
+    }
+
+    .img16 {
+        max-width: 250px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .wrapper .block .Making {
+        padding: 10px 200px 6px 200px;
+    }
+
+    .wrapper .header .headersilka .process {
+        margin-right: 25px;
+    }
+
+    .wrapper .header .headersilka .projects {
+        margin-right: 25px;
+    }
+
+    .wrapper .header .headersilka .team {
+        margin-right: 25px;
+    }
+
+    .wrapper .header .minimal {
+        font-size: 20px;
+    }
+
+    .wrapper .header .silka2 {
+        font-size: 12px;
+    }
+
+
+}
+
+@media screen and (max-width: 663px) {
+    .wrapper .block4 .loremleftright .leftlorem {
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .wrapper .header .process {
+        margin-right: 17px;
+    }
+
+    .wrapper .block .Making {
+        padding: 10px 120px 6px 120px;
+    }
+
+    .wrapper .header .projects {
+        margin-right: 17px;
+    }
+
+    .wrapper .header .team {
+        margin-right: 17px;
+    }
+
+    .wrapper .header .headersilka {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    .wrapper .block .Making {
+        font-size: 33px;
+    }
+
+    .wrapper .block .Making {
+        font-size: 28px;
+    }
+
+    .wrapper .block .Minimalist {
+        padding: 30px 150px 30px 150px;
+    }
+
+    .wrapper .header .silka2 {
+        font-size: 11px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+
+    .wrapper .header .headersilka .minimal {
+        font-size: 18px;
+        margin: 25px 0px 31px 13px;
+    }
+
+    .wrapper .header .headersilka {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .wrapper .block1 .set {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+
+    .wrapper .block1 .design {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+
+    .wrapper .block1 .track {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+
+    .wrapper .block2 .recent {
+        margin-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .wrapper .block1 {
+        padding-bottom: 60px;
+    }
+
+    .Logo {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .wrapper .block .Minimalist {
+        padding: 30px 100px 30px 100px;
+    }
+
+    .wrapper .block1 {
+        margin-top: -20px;
+    }
+
+    .wrapper .block1 .img3 {
+        margin-top: 30px;
+    }
+
+}
+
+@media screen and (max-width:600px) {
+    .header {
+        display: block;
+    }
+
+    .silka1 {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 695px) {
+    .wrapper .block5 .LETs {
+        width: 150px;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (max-width: 490px) {
+    .wrapper .block5 .LETs {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .wrapper .block .Making {
+        padding: 10px 50px 6px 51px;
+    }
+
+
+}
+
+@media screen and (max-width: 550px) {
+    .wrapper .block .Minimalist {
+        padding: 20px 50px 30px 50px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .wrapper .header .silka1 {
+        margin-left: 100px;
+    }
+
+    .wrapper .block3 .rasmlar1 .rasmlar2 {
+        margin: 0 auto;
+    }
+}
